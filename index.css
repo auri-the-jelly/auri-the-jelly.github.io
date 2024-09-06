@@ -11,6 +11,9 @@ span {
     justify-content: center 
 }
 
+a {
+    color: #8bd5ca;
+}
 
 .center-text {
     text-align: center;
